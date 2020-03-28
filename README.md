@@ -1,2 +1,2 @@
 # share
-share directory
+This is a share directory
